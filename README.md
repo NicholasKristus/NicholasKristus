@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m @NicholasKristus
+- 👋🏿 Hi, I’m @tifeolasupo
 - 👀 I’m interested in developing better products in the EdTech space.
 - 📘 I’m currently learning frontend development.
 - 🤝🏿 I’m looking to collaborate on projects that help me improve and learn on the job.
